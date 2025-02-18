@@ -1,0 +1,10 @@
+.header {
+    left: 0;
+    top: 0;
+    width: 100vw;
+    position: fixed;        
+    background: #1d7c55 ;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+}
